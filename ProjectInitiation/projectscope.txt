@@ -1,0 +1,58 @@
+Story: PREL-9
+Issue: PREL-10
+Define project scope/requirements
+
+1. User Registration and Authentication:
+
+    Users must be able to register with a unique username and password.
+    Implement secure authentication methods, such as email verification and password encryption.
+
+2. User Profile Management:
+
+    Enable users to input and update the following information:
+        Age
+        Interests
+        Hobbies
+        Location
+        Goals for community building
+
+3. Default Profile Generation:
+
+    Generate default templates and fill out feilds based on user input.
+    Ensure auto-generated profiles align with user interests and community goals.
+
+4. Community Grouping:
+
+    Users should be able to:
+        Create new community groups.
+        Search for existing community groups.
+        Follow and unfollow community groups.
+        Post, comment, chat, and interact within community groups.
+
+5. User Feed:
+
+    Develop a feed displaying the content from community groups users display interest in.
+    Sort content based on relevance, scheduling, and user interests.
+
+6. Tryit! Page:
+    Create a "Tryit!" page that suggests new events and hobbies to users.
+    Prompt/collect user feedback on suggested activities.
+
+7. User Notifications:
+
+    Design notification system for the creation of new groups and events.
+
+8. Privacy and Data Security:
+
+    Enable user privacy preferences for profiles and posts.
+
+9. Mobile Compatibility:
+    Compatible with iOS and Android devices.
+
+10. Analytics and User Insights:
+    Implement analytics to track user community engagement and preferneces.
+    Use data to refine community-activity recommendations.
+
+11. Testing and Quality Assurance:
+    Conduct full-stack testing--unit, integration, and user acceptance testing.
+    Anticipate/plan for continuous maintenance, bug fixes, and updates.
