@@ -1,0 +1,4 @@
+Story: PREL-9
+Issue: PREL-10
+Develop a SMART goal for the community-builder app that motivates and helps 
+navigate the development process.
