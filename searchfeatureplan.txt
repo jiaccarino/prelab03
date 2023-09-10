@@ -1,0 +1,4 @@
+Issue: PREL-15
+Description: Develop a user interface to search, follow, and join community groups
+
+//NOTES ON HOW TO DEVELOP A SEARCH FEATURE
